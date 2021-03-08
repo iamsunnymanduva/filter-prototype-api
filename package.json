@@ -1,0 +1,17 @@
+{
+  "name": "filter-prototype-api",
+  "version": "0.0.0",
+  "description": "A serverless function to provide geolocation data using ipinfo API",
+  "main": "index.js",
+  "keywords": [
+    "Geolocation API",
+    "Proxy Server",
+    "Serverless Function"
+  ],
+  "author": "Sunny Manduva",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
